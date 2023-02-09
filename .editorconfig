@@ -2,3 +2,6 @@
 
 # IDE0022: Use block body for methods
 csharp_style_expression_bodied_methods = true
+
+# IDE0055: Fix formatting
+dotnet_diagnostic.IDE0055.severity = none
