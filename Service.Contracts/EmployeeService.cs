@@ -16,6 +16,7 @@ namespace Service
         {
             _repository = repository;
             _logger = logger;
+            _mapper= mapper;
         }
     }
 }
