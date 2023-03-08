@@ -1,4 +1,4 @@
-﻿
+﻿using Contracts;
 using Entities.ErrorModel;
 using Microsoft.AspNetCore.Diagnostics;
 using System.Net;
